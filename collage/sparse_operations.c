@@ -144,7 +144,10 @@ int main(){
 	for(i=0;i<=tran[0].value;i++){
 		printf("%d\t%d\t%d\n",tran[i].row,tran[i].col,tran[i].value);
 		}
-		
+
+
+	// important
+	
 	
 	return 0;
 	}
