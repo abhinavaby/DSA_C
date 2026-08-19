@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //stack
 
 #define N 5
 int stack[N];
